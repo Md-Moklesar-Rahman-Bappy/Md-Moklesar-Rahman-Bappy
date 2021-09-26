@@ -4,7 +4,7 @@
 <!--
 **Md-Moklesar-Rahman-Bappy/Md-Moklesar-Rahman-Bappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ... Pentagon International Ltd.
 - 🌱 I’m currently learning ... WordPress Website Development
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Facebook](https://www.facebook.com/mr.bappy2)
 - 📫 How to reach me: ... [Facebook Page](https://www.facebook.com/mdmoklesarrahmanbappy)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Still i am a student 
--->
+- ⚡ Fun fact: ... Still i am a student

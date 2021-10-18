@@ -1,6 +1,8 @@
 ### Hi there 👋,
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Moklesar-Rahman-Bappy)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Md-Moklesar-Rahman-Bappy/Md-Moklesar-Rahman-Bappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

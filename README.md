@@ -1,8 +1,10 @@
-### Hi there 👋, my name is Md Moklesar Rahman Bappy
-#### I am a Designer & a Developer
-I am from Bangladesh and i love to code and learn new technologies.
+### Hi there 👋, My name is Md Moklesar Rahman Bappy
+#### I am a Developer.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Moklesar-Rahman-Bappy&show_icons=true)
+I am from Bangladesh and i love to coding and learn new technologies.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Moklesar-Rahman-Bappy&show_icons=true&theme=radical)
 
 Skills: HTML / CSS / Java Script / BootStrap / PHP/ Laravel / Node
 

@@ -5,7 +5,7 @@
 <div align="center">
   <div style="width: 50%;" align="center" >
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
-      <img src="https://komarev.com/ghpvc/?username=Md-Moklesar-Rahman-Bappy">
+      <img src="https://komarev.com/ghpvc/?username=Md-Moklesar-Rahman-Bappy&hide_border=false">
     </a>
   </div>
 </div>
@@ -25,7 +25,10 @@
     </td>
   </tr>
 </table>
-    
+
+<div align="center">
+  <div style="width: 80%;">
+
     <code>
       <a href="https://www.facebook.com/mr.bappy2">
         <img width="10%" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg">
@@ -61,3 +64,6 @@
         <img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg">
       </a>
     </code>
+    
+  </div>
+</div>

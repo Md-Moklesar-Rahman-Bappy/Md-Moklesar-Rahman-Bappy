@@ -1,30 +1,35 @@
-### Hi there 👋, My name is Md Moklesar Rahman Bappy
-#### I am a Developer.
+<h1 align="center">Hi 👋, I'm Md Moklesar Rahman Bappy</h1>
 
-I am from Bangladesh and i love to coding and learn new technologies.
+<P align="center">"Programming is 90% of thinking and 10% of writing"</p>
 
+<div align="center">
+  <div style="width: 50%;" align="center" >
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=Md-Moklesar-Rahman-Bappy">
+    </a>
+  </div>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Moklesar-Rahman-Bappy&show_icons=true&theme=radical)
+<br>
 
-Skills: HTML / CSS / Java Script / BootStrap / PHP/ Laravel / Node
+<div style="width: 100%;" align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Moklesar-Rahman-Bappy" alt="Md-Moklesar-Rahman-Bappy"/>
+</div>
+<table width="100%">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Md-Moklesar-Rahman-Bappy&show_icons=true&hide_border=false&count_private=true" /> 
+    </td>
+    <td> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Moklesar-Rahman-Bappy&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> 
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on a book shop project 
-- 🌱 I’m currently learning aboude Node.js 
-- 👯 I’m looking to collaborate on git, stack and others platforms 
-- 🤔 I’m looking for help with Laravel 
-- 💬 Ask me about what am I doing 
-- 📫 How to reach me: risingbappy1@gmail.com 
-- 😄 Pronouns: HE / HIM 
-- ⚡ Fun fact: I am still a student and learning  
+<div align="center">
+  <div style="width: 50%;" align="center" >
 
+    [![](https://img.shields.io/badge/Facebook-12100E?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mr.bappy2)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Md-Moklesar-Rahman-Bappy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='30'>](https://dev.to/mdmoklesarrahmanbappy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='30'>](https://hashnode.com/@mdmoklesarrahmanbapp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mrbappy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/mr.bappy2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/mr.bappy2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/mr_bappy2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/rising-bappy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='30'>](https://codesandbox.io/u/Md-Moklesar-Rahman-Bappy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/10829351/md-moklasar-rahman-bappy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='30'>](https://www.youtube.com/channel/UC2ow8WBFyBhq03OO_l2qq5Q)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='30'>](https://www.reddit.com/user/mrbappy2)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Moklesar-Rahman-Bappy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/Md-Moklesar-Rahman-Bappy)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-Moklesar-Rahman-Bappy)  
-
+  </div>
+</div>

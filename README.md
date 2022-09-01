@@ -25,9 +25,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <div style="width: 80%;">
     
     <code>
       <a href="https://www.facebook.com/mr.bappy2">
@@ -64,6 +61,3 @@
         <img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg">
       </a>
     </code>
-    
-  </div>
-</div>

@@ -31,7 +31,6 @@
 </div>
 <div align="center">
   <div style="width: 80%;">
-    [<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.mdmoklesarrahmanbappy.com/)
     <code>
       <a href="https://www.facebook.com/mr.bappy2">
         <img width="10%" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg">

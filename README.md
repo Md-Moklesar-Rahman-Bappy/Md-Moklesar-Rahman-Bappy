@@ -27,9 +27,43 @@
 </table>
 
 <div align="center">
-  <div style="width: 50%;" align="center" >
-
-    [![](https://img.shields.io/badge/Facebook-12100E?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mr.bappy2)
-
+  <div style="width: 80%;">
+    
+    <code>
+      <a href="https://www.facebook.com/mr.bappy2">
+        <img width="10%" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg">
+      </a>
+    </code>
+    <code>
+      <a href="https://instagram.com/mr.bappy2">
+        <img width="10%" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg">
+      </a>
+    </code>
+    <code>
+      <a href="https://twitter.com/mr_bappy2">
+        <img width="10%" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg">
+      </a>
+    </code>
+    <code>
+      <a href="https://www.linkedin.com/in/mrbappy/">
+        <img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
+      </a>
+    </code>
+    <code>
+      <a href="https://www.behance.net/risingbappy1">
+        <img width="10%" src="https://www.vectorlogo.zone/logos/behance/behance-ar21.svg">
+      </a>
+    </code>
+    <code>
+      <a href="https://github.com/Md-Moklesar-Rahman-Bappy">
+        <img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+      </a>
+    </code>
+    <code>
+      <a href="https://stackoverflow.com/users/10829351/md-moklasar-rahman-bappy">
+        <img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg">
+      </a>
+    </code>
+    
   </div>
 </div>

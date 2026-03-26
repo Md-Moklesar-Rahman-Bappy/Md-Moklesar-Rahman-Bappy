@@ -10,7 +10,8 @@
 
 ## 🧠 About Me
 
-I'm a passionate full-stack developer who blends backend precision with frontend beauty. I specialize in building scalable Laravel applications with dashboard-level polish, vibrant UI, and joyful UX.
+I'm a passionate full-stack developer who blends backend precision with frontend beauty.  
+I specialize in building scalable Laravel applications with dashboard-level polish, vibrant UI, and joyful UX.
 
 💡 I believe every interface should feel intuitive, every button should invite action, and every error message should guide—not frustrate.
 
@@ -37,46 +38,62 @@ I'm a passionate full-stack developer who blends backend precision with frontend
 ## 🚀 Featured Projects
 
 ### 🧿 [Product Inventory Dashboard](https://github.com/Md-Moklesar-Rahman-Bappy/product-inventory-dashboard)
-
 A vibrant Laravel dashboard for managing products, brands, categories, and models with advanced CRUD, search, pagination, and polished UI.
 
 ✨ Highlights:
-- Modular CRUD with form validation
-- Serial number search with pagination
-- Gradient buttons, icons, tooltips, and empty states
-- Reusable Blade components and DRY architecture
+- Modular CRUD with form validation  
+- Serial number search with pagination  
+- Gradient buttons, icons, tooltips, and empty states  
+- Reusable Blade components and DRY architecture  
 
 📁 [View Full README](https://github.com/Md-Moklesar-Rahman-Bappy/product-inventory-dashboard/blob/main/README.md)
 
 ---
 
-### 🛒 [Add to Cart Button with Quantity](https://github.com/Md-Moklesar-Rahman-Bappy/add-to-cart-button-with-quantity)
-
-A clean HTML/CSS/JS cart UI with increment/decrement logic and responsive design.
+### 🛒 [Add to Cart Button with Quantity](https://github.com/Md-Moklesar-Rahman-Bappy/add-to-cart-button-with-quantity)  
+A clean HTML/CSS/JS cart UI with increment/decrement logic and responsive design.  
+👉 [Live Demo](https://md-moklesar-rahman-bappy.github.io/add-to-cart-button-with-quantity/)
 
 ---
 
-### 🔗 [BELINK URL Shortener](https://github.com/Md-Moklesar-Rahman-Bappy/BELINK-URL-Shortner)
+### 🔗 [BELINK URL Shortener](https://github.com/Md-Moklesar-Rahman-Bappy/BELINK-URL-Shortner)  
+A JavaScript-based URL shortener with a simple interface and copy-to-clipboard functionality.  
+👉 [Live Demo](https://md-moklesar-rahman-bappy.github.io/BELINK-URL-Shortner/)
 
-A JavaScript-based URL shortener with a simple interface and copy-to-clipboard functionality.
+---
+
+### 🎨 Creative Animations
+I love playful, interactive coding projects. Some highlights:  
+- [Animated Balloons](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Balloons) 🎈  
+- [Animated Hourglass](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Hourglass) ⏳  
+- [Astronaut](https://github.com/Md-Moklesar-Rahman-Bappy/Astronaut) 👨‍🚀  
+- [Hamster Wheel](https://github.com/Md-Moklesar-Rahman-Bappy/Hamster-wheel) 🐹  
+- [Toy Train](https://github.com/Md-Moklesar-Rahman-Bappy/Toy-Train) 🚂  
+- [Ferris Wheel](https://github.com/Md-Moklesar-Rahman-Bappy/Ferris-wheel) 🎡  
+- [Pacman](https://github.com/Md-Moklesar-Rahman-Bappy/Pacman) 🟡  
+- [Spider Web](https://github.com/Md-Moklesar-Rahman-Bappy/Spider-Web) 🕸️  
+- [Animated Christmas Tree](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Christmas-Tree) 🎄  
+- [Animated Rubik’s Cube](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Rubik-s-Cube) 🧩  
+
+👉 All live demos available via GitHub Pages.
 
 ---
 
 ## 🎨 Design Philosophy
 
-- 🧩 Every component should feel intentional
-- 📭 Empty states deserve love
-- 🛡️ Validation should guide, not frustrate
-- 🔍 Search should be fast and forgiving
-- 🎨 Visual hierarchy creates clarity
+- 🧩 Every component should feel intentional  
+- 📭 Empty states deserve love  
+- 🛡️ Validation should guide, not frustrate  
+- 🔍 Search should be fast and forgiving  
+- 🎨 Visual hierarchy creates clarity  
 
 ---
 
 ## 📬 Let's Connect
 
-- 📧 Email: [md.moklasarrahmanbappy@gmail.com](mailto:md.moklasarrahmanbappy@gmail.com)
-- 🐙 GitHub: [Md-Moklesar-Rahman-Bappy](https://github.com/Md-Moklesar-Rahman-Bappy)
-- 📝 DEV Profile: [dev.to/mdmoklesarrahmanbappy](https://dev.to/mdmoklesarrahmanbappy)
+- 📧 Email: [md.moklasarrahmanbappy@gmail.com](mailto:md.moklasarrahmanbappy@gmail.com)  
+- 🐙 GitHub: [Md-Moklesar-Rahman-Bappy](https://github.com/Md-Moklesar-Rahman-Bappy)  
+- 📝 DEV Profile: [dev.to/mdmoklesarrahmanbappy](https://dev.to/mdmoklesarrahmanbappy)  
 
 ---
 

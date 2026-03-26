@@ -35,47 +35,36 @@ I specialize in building scalable Laravel applications with dashboard-level poli
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project Showcase
 
-### 🧿 [Product Inventory Dashboard](https://github.com/Md-Moklesar-Rahman-Bappy/product-inventory-dashboard)
-A vibrant Laravel dashboard for managing products, brands, categories, and models with advanced CRUD, search, pagination, and polished UI.
+Here’s a quick overview of my repositories with GitHub and Live Demo links:
 
-✨ Highlights:
-- Modular CRUD with form validation  
-- Serial number search with pagination  
-- Gradient buttons, icons, tooltips, and empty states  
-- Reusable Blade components and DRY architecture  
-
-📁 [View Full README](https://github.com/Md-Moklesar-Rahman-Bappy/product-inventory-dashboard/blob/main/README.md)
-
----
-
-### 🛒 [Add to Cart Button with Quantity](https://github.com/Md-Moklesar-Rahman-Bappy/add-to-cart-button-with-quantity)  
-A clean HTML/CSS/JS cart UI with increment/decrement logic and responsive design.  
-👉 [Live Demo](https://md-moklesar-rahman-bappy.github.io/add-to-cart-button-with-quantity/)
-
----
-
-### 🔗 [BELINK URL Shortener](https://github.com/Md-Moklesar-Rahman-Bappy/BELINK-URL-Shortner)  
-A JavaScript-based URL shortener with a simple interface and copy-to-clipboard functionality.  
-👉 [Live Demo](https://md-moklesar-rahman-bappy.github.io/BELINK-URL-Shortner/)
-
----
-
-### 🎨 Creative Animations
-I love playful, interactive coding projects. Some highlights:  
-- [Animated Balloons](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Balloons) 🎈  
-- [Animated Hourglass](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Hourglass) ⏳  
-- [Astronaut](https://github.com/Md-Moklesar-Rahman-Bappy/Astronaut) 👨‍🚀  
-- [Hamster Wheel](https://github.com/Md-Moklesar-Rahman-Bappy/Hamster-wheel) 🐹  
-- [Toy Train](https://github.com/Md-Moklesar-Rahman-Bappy/Toy-Train) 🚂  
-- [Ferris Wheel](https://github.com/Md-Moklesar-Rahman-Bappy/Ferris-wheel) 🎡  
-- [Pacman](https://github.com/Md-Moklesar-Rahman-Bappy/Pacman) 🟡  
-- [Spider Web](https://github.com/Md-Moklesar-Rahman-Bappy/Spider-Web) 🕸️  
-- [Animated Christmas Tree](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Christmas-Tree) 🎄  
-- [Animated Rubik’s Cube](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Rubik-s-Cube) 🧩  
-
-👉 All live demos available via GitHub Pages.
+| Project | GitHub Repo | Live Demo |
+|---------|-------------|-----------|
+| Portfolio Website | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Md-Moklesar-Rahman) | [Live](https://md-moklesar-rahman-bappy.github.io/Md-Moklesar-Rahman/) |
+| Periodic Table | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Periodic-Table-of-Elements) | [Live](https://md-moklesar-rahman-bappy.github.io/Periodic-Table-of-Elements/) |
+| Kingma Website | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/KINGMA) | [Live](https://md-moklesar-rahman-bappy.github.io/KINGMA/) |
+| Candle Animation | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Candle) | [Live](https://md-moklesar-rahman-bappy.github.io/Candle/) |
+| Cogs Animation | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Cogs-Animation) | [Live](https://md-moklesar-rahman-bappy.github.io/Cogs-Animation/) |
+| Spaceship Animation | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Spaceship-Animation) | [Live](https://md-moklesar-rahman-bappy.github.io/Spaceship-Animation/) |
+| Animated Balloons | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Balloons) | [Live](https://md-moklesar-rahman-bappy.github.io/Animated-Balloons/) |
+| Animated Hourglass | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Hourglass) | [Live](https://md-moklesar-rahman-bappy.github.io/Animated-Hourglass/) |
+| Astronaut | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Astronaut) | [Live](https://md-moklesar-rahman-bappy.github.io/Astronaut/) |
+| Hamster Wheel | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Hamster-wheel) | [Live](https://md-moklesar-rahman-bappy.github.io/Hamster-wheel/) |
+| Toy Train | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Toy-Train) | [Live](https://md-moklesar-rahman-bappy.github.io/Toy-Train/) |
+| Ferris Wheel | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Ferris-wheel) | [Live](https://md-moklesar-rahman-bappy.github.io/Ferris-wheel/) |
+| Pacman | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Pacman) | [Live](https://md-moklesar-rahman-bappy.github.io/Pacman/) |
+| Spider Web | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Spider-Web) | [Live](https://md-moklesar-rahman-bappy.github.io/Spider-Web/) |
+| Animated Christmas Tree | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Christmas-Tree) | [Live](https://md-moklesar-rahman-bappy.github.io/Animated-Christmas-Tree/) |
+| Animated Rubik’s Cube | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Rubik-s-Cube) | [Live](https://md-moklesar-rahman-bappy.github.io/Animated-Rubik-s-Cube/) |
+| QR Code Generator | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/QR-Code-Generator) | [Live](https://md-moklesar-rahman-bappy.github.io/QR-Code-Generator/) |
+| Add to Cart Button | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/add-to-cart-button-with-quantity) | [Live](https://md-moklesar-rahman-bappy.github.io/add-to-cart-button-with-quantity/) |
+| Animated Penguin | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/animated_penguin) | [Live](https://md-moklesar-rahman-bappy.github.io/animated_penguin/) |
+| Transparent Login Form | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Transparent-Login-Form) | [Live](https://md-moklesar-rahman-bappy.github.io/Transparent-Login-Form/) |
+| Hamburger Menu Overlay | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Hamburger-Menu-Overlay) | [Live](https://md-moklesar-rahman-bappy.github.io/Hamburger-Menu-Overlay/) |
+| Uber Clone | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/UberClone) | [Live](https://md-moklesar-rahman-bappy.github.io/UberClone/) |
+| Resume Website | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/resume-website) | [Live](https://md-moklesar-rahman-bappy.github.io/resume-website/) |
+| BELINK URL Shortener | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/BELINK-URL-Shortner) | [Live](https://md-moklesar-rahman-bappy.github.io/BELINK-URL-Shortner/) |
 
 ---
 

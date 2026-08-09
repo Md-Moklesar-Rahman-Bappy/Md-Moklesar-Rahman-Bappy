@@ -1,200 +1,91 @@
-<h1 align="center">
-  Hi 👋, I'm Md Moklesar Rahman Bappy
-</h1>
-
-<h3 align="center">
-Laravel Architect • Full Stack Developer • UI/UX Designer
-</h3>
+<h1 align="center">👋 Hi, I'm Md Moklesar Rahman Bappy</h1>
 
 <p align="center">
-I build scalable Laravel applications, beautiful dashboards, and delightful user experiences.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Laravel+Architect;Full+Stack+Developer;UI%2FUX+Designer+Perfectionist;Building+Digital+Experiences
-</p>
-
----
-
-## 🚀 About Me
-
-```php
-<?php
-
-class Developer
-{
-    public string $name = "Md Moklesar Rahman Bappy";
-
-    public string $role = "Laravel Architect";
-
-    public string $location = "Dhaka, Bangladesh";
-
-    public array $skills = [
-        "Laravel",
-        "PHP",
-        "MySQL",
-        "Bootstrap",
-        "JavaScript",
-        "UI/UX Design"
-    ];
-
-    public function motto()
-    {
-        return "Nothing is Impossible. The world itself says I'm Possible.";
-    }
-}
-```
-
-### 💡 What I Love Building
-
-- 🚀 Laravel Applications
-- 📊 Admin Dashboards
-- 🎨 UI/UX Experiences
-- 🔗 REST APIs
-- ⚡ High Performance Web Apps
-- 🧩 Reusable Components
-
----
-
-## 🛠 Tech Stack
-
-### Backend
-
-<p>
-https://skillicons.dev/icons?i=php,laravel,mysql
-</p>
-
-### Frontend
-
-<p>
-https://skillicons.dev/icons?i=html,css,js,bootstrap
-</p>
-
-### Tools
-
-<p>
-<img srcskillicons.dev/icons?i=git,github,vscode,figma
+  Laravel Architect • UI/UX Designer • Dashboard Perfectionist  
+  <br>
+  📍 Dhaka, Bangladesh &nbsp;|&nbsp; ✉️ <a href="mailto:md.moklasarrahmanbappy@gmail.com">md.moklasarrahmanbappy@gmail.com</a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 About Me
 
-<p align="center">
+I'm a passionate full-stack developer who blends backend precision with frontend beauty.  
+I specialize in building scalable Laravel applications with dashboard-level polish, vibrant UI, and joyful UX.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?an-Bappy&show_icons=true&theme=tokyonight&hide_border=true
+💡 I believe every interface should feel intuitive, every button should invite action, and every error message should guide—not frustrate.
 
-<img height="180em" src="https://github-readme-langs/?username=Md-Moklesar-Rahman-Bappy&layout=compact&theme=tokyonight&hide_border=true
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?klesar-Rahman-Bappy&theme=tokyonight&hide_border=true
-</p>
+> “Nothing is Impossible. The world itself says I am Possible.”  
+> — Md Moklesar Rahman Bappy
 
 ---
 
-## 🏆 GitHub Trophies
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Md-Moklesar-Rahman-Bappy&theme=tokyonight&no-&row=1&column=7
-</p>
+<div align="center">
 
----
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Blade](https://img.shields.io/badge/-Blade-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
-## 🌟 Featured Projects
-
-### 🔗 Laralink
-Modern URL Shortener built with Laravel.
-
-🔹 Clean Dashboard  
-🔹 Analytics  
-🔹 URL Management  
-
-[Repository](https://github.com/Md-Moklesar-Rahman-Bappy/laralink)
+</div>
 
 ---
 
-### 🚀 BELINK URL Shortener
+## 🚀 Project Showcase
 
-A modern frontend URL shortener project.
+Here’s a quick overview of my repositories with GitHub and Live Demo links:
 
-[Repository](https://github.com/Md-Moklesar-Rahman-Bappy/BELINK-URL-Shortner)
-
----
-
-### 🌐 Personal Portfolio
-
-Designed to showcase my skills and projects.
-
-[Repository](https://github.com/Md-Moklesar-Rahman-Bappy/laralink)
-
-https://md-moklesar-rahman-bappy.github.io/Md-Moklesar-Rahman/
-
----
-
-### 🚗 Uber Clone
-
-Responsive Uber UI Clone.
-
-[Repository](https://github.com/Md-Moklesar-Rahman-Bappy/laralink)
-
-https://md-moklesar-rahman-bappy.github.io/UberClone/
+| Project | GitHub Repo | Live Demo |
+|---------|-------------|-----------|
+| Portfolio Website | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Md-Moklesar-Rahman) | [Live](https://md-moklesar-rahman-bappy.github.io/Md-Moklesar-Rahman/) |
+| Periodic Table | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Periodic-Table-of-Elements) | [Live](https://md-moklesar-rahman-bappy.github.io/Periodic-Table-of-Elements/) |
+| Kingma Website | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/KINGMA) | [Live](https://md-moklesar-rahman-bappy.github.io/KINGMA/) |
+| Candle Animation | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Candle) | [Live](https://md-moklesar-rahman-bappy.github.io/Candle/) |
+| Cogs Animation | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Cogs-Animation) | [Live](https://md-moklesar-rahman-bappy.github.io/Cogs-Animation/) |
+| Spaceship Animation | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Spaceship-Animation) | [Live](https://md-moklesar-rahman-bappy.github.io/Spaceship-Animation/) |
+| Animated Balloons | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Balloons) | [Live](https://md-moklesar-rahman-bappy.github.io/Animated-Balloons/) |
+| Animated Hourglass | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Hourglass) | [Live](https://md-moklesar-rahman-bappy.github.io/Animated-Hourglass/) |
+| Astronaut | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Astronaut) | [Live](https://md-moklesar-rahman-bappy.github.io/Astronaut/) |
+| Hamster Wheel | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Hamster-wheel) | [Live](https://md-moklesar-rahman-bappy.github.io/Hamster-wheel/) |
+| Toy Train | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Toy-Train) | [Live](https://md-moklesar-rahman-bappy.github.io/Toy-Train/) |
+| Ferris Wheel | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Ferris-wheel) | [Live](https://md-moklesar-rahman-bappy.github.io/Ferris-wheel/) |
+| Pacman | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Pacman) | [Live](https://md-moklesar-rahman-bappy.github.io/Pacman/) |
+| Spider Web | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Spider-Web) | [Live](https://md-moklesar-rahman-bappy.github.io/Spider-Web/) |
+| Animated Christmas Tree | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Christmas-Tree) | [Live](https://md-moklesar-rahman-bappy.github.io/Animated-Christmas-Tree/) |
+| Animated Rubik’s Cube | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Animated-Rubik-s-Cube) | [Live](https://md-moklesar-rahman-bappy.github.io/Animated-Rubik-s-Cube/) |
+| QR Code Generator | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/QR-Code-Generator) | [Live](https://md-moklesar-rahman-bappy.github.io/QR-Code-Generator/) |
+| Add to Cart Button | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/add-to-cart-button-with-quantity) | [Live](https://md-moklesar-rahman-bappy.github.io/add-to-cart-button-with-quantity/) |
+| Animated Penguin | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/animated_penguin) | [Live](https://md-moklesar-rahman-bappy.github.io/animated_penguin/) |
+| Transparent Login Form | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Transparent-Login-Form) | [Live](https://md-moklesar-rahman-bappy.github.io/Transparent-Login-Form/) |
+| Hamburger Menu Overlay | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/Hamburger-Menu-Overlay) | [Live](https://md-moklesar-rahman-bappy.github.io/Hamburger-Menu-Overlay/) |
+| Uber Clone | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/UberClone) | [Live](https://md-moklesar-rahman-bappy.github.io/UberClone/) |
+| Resume Website | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/resume-website) | [Live](https://md-moklesar-rahman-bappy.github.io/resume-website/) |
+| BELINK URL Shortener | [Repo](https://github.com/Md-Moklesar-Rahman-Bappy/BELINK-URL-Shortner) | [Live](https://md-moklesar-rahman-bappy.github.io/BELINK-URL-Shortner/) |
 
 ---
 
 ## 🎨 Design Philosophy
 
-🧩 Every component should feel intentional
-
-📭 Empty states deserve love
-
-🛡 Validation should guide, not frustrate
-
-🔍 Search should be fast and forgiving
-
-🎨 Visual hierarchy creates clarity
-
-⚡ Performance is a feature
-
-❤️ Great UX feels invisible
+- 🧩 Every component should feel intentional  
+- 📭 Empty states deserve love  
+- 🛡️ Validation should guide, not frustrate  
+- 🔍 Search should be fast and forgiving  
+- 🎨 Visual hierarchy creates clarity  
 
 ---
 
-## 📈 Contribution Activity
+## 📬 Let's Connect
 
-<p align="center">
-https://github-readme-activity-graph.vercel.app/graph?username=Md-Moklesar-Rahman-Bappy&theme=tokyo-night&hide_border=true
-</p>
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-
-<a href="mailto:md.moklasarrahmanbappy@gmail.com">
-  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-</a>
-
-<a href="https://github.com/Md-Moklesar-Rahman-Bappy">
-  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-</a>
-
-<a href="https://dev.to/mdmoklesarrahmanbappy">
-  https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to
-</a>
-
-</p>
+- 📧 Email: [md.moklasarrahmanbappy@gmail.com](mailto:md.moklasarrahmanbappy@gmail.com)  
+- 🐙 GitHub: [Md-Moklesar-Rahman-Bappy](https://github.com/Md-Moklesar-Rahman-Bappy)  
+- 📝 DEV Profile: [dev.to/mdmoklesarrahmanbappy](https://dev.to/mdmoklesarrahmanbappy)  
 
 ---
 
 <p align="center">
-  <strong>
-    🚀 Nothing is Impossible. The world itself says I'm Possible.
-  </strong>
-</p>
-
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=I+build+beautiful+Laravel+dashboards.;I+design+with+clarity+and+joy.;I+code+like+I+mean+it.">
 </p>

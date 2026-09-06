@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Md Moklesar Rahman Bappy</h1>
 
 <p align="center">
-  Laravel Architect • UI/UX Designer • Dashboard Perfectionist  
+  Laravel Architect • Full Stack Develope • UI / UX Designer • AI Research Enthusiast 
   <br>
   📍 Dhaka, Bangladesh &nbsp;|&nbsp; ✉️ <a href="mailto:md.moklasarrahmanbappy@gmail.com">md.moklasarrahmanbappy@gmail.com</a>
 </p>

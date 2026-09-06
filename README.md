@@ -89,7 +89,3 @@ Here’s a quick overview of my repositories with GitHub and Live Demo links:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=I+build+beautiful+Laravel+dashboards.;I+design+with+clarity+and+joy.;I+code+like+I+mean+it.">
 </p>
-
-<br>
-আমি কিভাবে আমার Readme.MD কে আর সুন্দর এবং ডাইন্যামিক করতে পারি।
-<br>

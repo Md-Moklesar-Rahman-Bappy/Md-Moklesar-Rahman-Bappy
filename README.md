@@ -5,27 +5,25 @@ Laravel Architect • Full Stack Developer • AI Research Enthusiast • UI/UX 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&sizeon=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Laravel+Architect;Full+Stack+Developer;AI+Researcher;UI%2FUX+Designer;Computer+Vision+Enthusiast;Building+Beautiful+and+Scalable+Applications
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=chitect;Full+Stack+Developer;AI+Researcher;UI%2FUX+Designer;Computer+Vision+Enthusiast;Building+Beautiful+Applications
 </p>
 
 <p align="center">
+  <a href="mailto:md.moklasarrahmanbappy@gmail.com">
+    https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+  </a>
 
-<a href="mailto:md.moklasarrahmanbappy@gmail.com">
-https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-</a>
+  <a href="https://github.com/Md-Moklesar-Rahman-Bappy">
+    https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+  </a>
 
-<a href="https://github.com/Md-Moklesar-Rahman-Bappy">
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-</a>
-
-https://dev.to/mdmoklesarrahmanbappy
-https://img.shields.io/badge/DEV-000000?style=for-the-badge&logo=dev.to&logoColor=white
-</a>
-
+  https://dev.to/mdmoklesarrahmanbappy
+    <ttps://img.shields.io/badge/DEV-000000?style=for-the-badge&logo=dev.to&logoColor=white
+  </a>
 </p>
 
 <p align="center">
-https://komarev.com/ghpvc/?username=Md-Moklesar-Rahman-Bappy&label=Profile%20Views&color=0e75b6&style=flat
+  <img src="https://komarev.com/ghpvc/?username=Md-Moklesar-Rahman-Bappy&label=Profile%20Views&b6&style=flat
 </p>
 
 ---
@@ -37,10 +35,10 @@ Name: Md Moklesar Rahman Bappy
 
 Location: Dhaka, Bangladesh
 
-Role:
+Roles:
   - Laravel Architect
   - Full Stack Developer
-  - UI/UX Designer
+  - UI / UX Designer
   - AI Research Enthusiast
 
 Focus:
@@ -54,7 +52,7 @@ Motto:
   "Nothing is Impossible. The world itself says I am Possible."
 ```
 
-I love building scalable applications, beautiful interfaces, AI-powered systems, and user experiences that feel effortless and intuitive.
+I love building scalable applications, beautiful interfaces, dashboards, and AI-powered systems.
 
 ---
 
@@ -62,9 +60,7 @@ I love building scalable applications, beautiful interfaces, AI-powered systems,
 
 ## AI Classroom Cheating Detection System
 
-A Real-Time AI Surveillance Platform designed to identify suspicious exam activities through Computer Vision and Deep Learning.
-
-### Core Technologies
+Real-Time Exam Surveillance Platform using:
 
 ✅ Face Recognition
 
@@ -72,15 +68,13 @@ A Real-Time AI Surveillance Platform designed to identify suspicious exam activi
 
 ✅ Head Pose Estimation
 
-✅ Human Behaviour Analysis
-
 ✅ Object Detection
+
+✅ Behaviour Analysis
 
 ✅ Deep Learning
 
 ✅ Real-Time Monitoring
-
-✅ AI-Based Alert Generation
 
 ### Research Supervisor
 
@@ -105,7 +99,7 @@ https://skillicons.dev/icons?i=html,css,js,bootstrap
 ## Tools
 
 <p align="center">
-https://skillicons.dev/icons?i=git,github,vscode
+https://skillicons.dev/icons?i=git,github,vscode,linux
 </p>
 
 ---
@@ -113,9 +107,9 @@ https://skillicons.dev/icons?i=git,github,vscode
 # 📊 GitHub Analytics
 
 <p align="center">
-https://github-readme-stats.vercel.app/api?username=Md-Moklesar-Rahman-Bappy&show_icons=true&theme=tokyonight
+  https://github-readme-stats.vercel.app/api?username=Md-Moklesar-Rahman-Bappy&show_icons=true&theme=tokyonight
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Moklesar-Rahman-Bappy&layout=compact&theme=tokyonight
+  https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Moklesar-Rahman-Bappy&layout=compact&theme=tokyonight
 </p>
 
 ---
@@ -123,7 +117,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Moklesar-Rahma
 # 🔥 GitHub Streak
 
 <p align="center">
-https://github-readme-streak-stats.herokuapp.com/?user=Md-Moklesar-Rahman-Bappy&theme=tokyonight
+  https://github-readme-streak-stats.herokuapp.com/?user=Md-Moklesar-Rahman-Bappy&theme=tokyonight
 </p>
 
 ---
@@ -131,15 +125,15 @@ https://github-readme-streak-stats.herokuapp.com/?user=Md-Moklesar-Rahman-Bappy&
 # 🏆 GitHub Trophies
 
 <p align="center">
-https://github-profile-trophy.vercel.app/?username=Md-Moklesar-Rahman-Bappy&theme=tokyonight&row=2&column=4
+  https://github-profile-trophy.vercel.app/?username=Md-Moklesar-Rahman-Bappy&theme=tokyonight&row=2&column=4
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
-https://github-readme-activity-graph.vercel.app/graph?username=Md-Moklesar-Rahman-Bappy&theme=tokyo-night
+  https://github-readme-activity-graph.vercel.app/graph?username=Md-Moklesar-Rahman-Bappy&theme=tokyo-night
 </p>
 
 ---
@@ -148,12 +142,12 @@ https://github-readme-activity-graph.vercel.app/graph?username=Md-Moklesar-Rahma
 
 | Project | Description |
 |----------|------------|
-| 🎓 AI Classroom Cheating Detection System | Master's Research Project |
-| 🔗 BELINK URL Shortener | URL Shortening Platform |
-| 🚕 Uber Clone | Modern Web Application |
+| 🎓 AI Classroom Cheating Detection System | Master's Research |
+| 🔗 BELINK URL Shortener | URL Management Platform |
+| 🌐 LaraLink | URL Shortener |
+| 🚕 Uber Clone | Modern UI Project |
+| 📱 QR Code Generator | Utility Tool |
 | 👨‍💻 Portfolio Website | Personal Portfolio |
-| 📱 QR Code Generator | Utility Web Tool |
-| 🌐 LaraLink | URL Management Platform |
 
 ---
 
@@ -161,37 +155,27 @@ https://github-readme-activity-graph.vercel.app/graph?username=Md-Moklesar-Rahma
 
 ### 🎓 AI Classroom Cheating Detection System
 
-Real-Time AI Surveillance System for Educational Environments.
-
----
+AI-powered real-time surveillance system for educational environments.
 
 ### 🔗 BELINK URL Shortener
 
-Create, manage, and analyze short URLs efficiently.
+Modern URL shortener platform.
 
----
+### 🌐 LaraLink
+
+Advanced URL management platform.
 
 ### 🚕 Uber Clone
 
-Modern responsive ride-sharing inspired interface.
-
----
-
-### 👨‍💻 Portfolio Website
-
-Professional developer portfolio highlighting projects and achievements.
-
----
+Responsive ride sharing inspired user interface.
 
 ### 📱 QR Code Generator
 
-Generate QR codes instantly using modern frontend technologies.
+Generate QR codes instantly.
 
----
+### 🧪 Periodic Table
 
-### 🧪 Periodic Table of Elements
-
-Interactive chemistry-focused educational web application.
+Interactive educational project.
 
 ---
 
@@ -202,54 +186,44 @@ Artificial Intelligence
 Machine Learning
 Deep Learning
 Computer Vision
-YOLO
 OpenCV
+YOLO
 System Design
 Laravel Advanced Architecture
 ```
 
 ---
 
-# 🎨 Design Principles
+# 🎨 Design Philosophy
 
-🧩 Every Component Must Feel Intentional
-
-🎯 UX Before Animation
-
-⚡ Performance First
-
-🛡️ Validation Should Guide
-
-📭 Empty States Need Love
-
-❤️ Design Builds Trust
-
-🔍 Search Should Be Forgiving
-
-📱 Mobile First Thinking
+- 🧩 Every component should feel intentional
+- 📭 Empty states deserve love
+- 🛡️ Validation should guide
+- 🔍 Search should be forgiving
+- ⚡ Performance first
+- ❤️ Great UX creates trust
 
 ---
 
-# 🌍 Open-Source Goals
+# 🌍 Open Source Goals
 
-✅ Build Real-World Laravel Systems
+✅ Build Real World Laravel Systems
 
-✅ Publish Research-Oriented AI Projects
+✅ Publish AI Projects
 
 ✅ Contribute to Open Source
 
-✅ Help Beginner Developers
+✅ Share Knowledge
 
-✅ Share Learning Through Code
+✅ Help Beginner Developers
 
 ---
 
-# 📫 Connect With Me
+# 📬 Connect With Me
 
 <p align="center">
-
 <a href="mailto:md.moklasarrahmanbappy@gmail.com">
-https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
 </a>
 
 <a href="https://github.com/Md-Moklesar-Rahman-Bappy">
@@ -259,31 +233,26 @@ https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoC
 https://dev.to/mdmoklesarrahmanbappy
 https://img.shields.io/badge/DEV-000000?style=for-the-badge&logo=dev.to&logoColor=white
 </a>
-
 </p>
 
 ---
 
 # 🐍 Contribution Snake
 
-> Enable GitHub Actions and add the Snake Animation workflow.
+> Enable GitHub Actions and create `.github/workflows/snake.yml`
 
-```text
-.github/workflows/snake.yml
-```
-
-After enabling:
-
-https://github.com/Md-Moklesar-Rahman-Bappy/Md-Moklesar-Rahman-Bappy/blob/output/github-contribution-grid-snake.svg
+<p align="center">
+  https://raw.githubusercontent.com/Md-Moklesar-Rahman-Bappy/Md-Moklesar-Rahman-Bappy/output/github-contribution-grid-snake.svg
+</p>
 
 ---
 
 <p align="center">
 
-💙 Thanks for visiting my profile.
+💙 Thanks for visiting my profile
 
-🚀 Building scalable applications, beautiful interfaces, and intelligent systems.
+🚀 Building intelligent systems, beautiful interfaces and scalable applications
 
-⭐ Don't forget to follow.
+⭐ Don't forget to follow
 
 </p>
